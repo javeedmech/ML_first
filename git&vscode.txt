@@ -1,0 +1,19 @@
+
+1. open anaconda prompt in base configuration
+2. launch code .
+
+3. open terminal (in command prompt or power shell)
+
+conda create -p venv python==3. -y
+
+4. conda activate venv/
+
+
+5.PS C:\git_tutorial> git init
+Reinitialized existing Git repository in C:/git_tutorial/.git/
+PS C:\git_tutorial> Git remote remove origin
+PS C:\git_tutorial> Git remote -v
+PS C:\git_tutorial> Git remote add origin https://github.com/javeedmech/MLProject2.git
+PS C:\git_tutorial> git log
+
+
